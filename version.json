@@ -1,0 +1,10 @@
+{
+  "latest_version": "0.0.1",
+  "minimum_version": "0.0.1",
+  "release_date": "2026-05-25",
+  "download_url": "https://example.com/SHAM.CIS.Setup.0.0.1.exe",
+  "notes": [
+    "Тестовая публикация системы обновлений SHAM.CIS"
+  ],
+  "mandatory": false
+}
