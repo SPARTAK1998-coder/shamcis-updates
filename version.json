@@ -1,14 +1,13 @@
 {
-  "latest_version": "3.0.1",
+  "latest_version": "3.0.2",
   "minimum_version": "3.0.0",
   "release_date": "2026-05-25",
   "download_url": "https://github.com/SPARTAK1998-coder/shamcis-updates/releases/download/v3.0.2/SHAM.CIS-Materials-Setup-3.0.2.exe",
   "channel": "stable",
   "notes": [
-    "Проверка обновлений (updater-check) и раздел «Обновления»",
-    "Установщик: обновление поверх без потери данных в %LOCALAPPDATA%",
-    "Исправления гостевых ключей, SMTP, панели «Расчёт материалов»",
-    "Миграция схемы object_estimate_values / material_overrides"
+    "Исправлен возврат на экран входа после нажатия «Выйти»",
+    "Обновление установщика поверх существующей установки",
+    "Подготовка к тесту автообновления"
   ],
   "mandatory": false
 }
