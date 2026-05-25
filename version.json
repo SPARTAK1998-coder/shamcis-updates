@@ -2,7 +2,7 @@
   "latest_version": "3.0.1",
   "minimum_version": "3.0.0",
   "release_date": "2026-05-25",
-  "download_url": "СЮДА_ВСТАВИТЬ_ССЫЛКУ_НА_SETUP_ИЗ_RELEASE",
+  "download_url": "https://github.com/SPARTAK1998-coder/shamcis-updates/releases/download/v3.0.1/SHAM.CIS-Materials-Setup-3.0.1.exe",
   "channel": "stable",
   "notes": [
     "Проверка обновлений (updater-check) и раздел «Обновления»",
